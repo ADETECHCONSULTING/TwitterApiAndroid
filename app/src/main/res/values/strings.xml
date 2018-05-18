@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwitterCloneApp</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">WhGpm7bEZ7DkPdRyNRYcXpLXe</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">4YhL70axRP5T4x5HUtvAGR2RIlrPqYSW8zueEmRFq01mR4g9KV</string>
+    <string name="search">search</string>
+    <string name="refresh">refresh</string>
+    <string name="logout">logout</string>
+</resources>
